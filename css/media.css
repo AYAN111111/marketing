@@ -1,0 +1,939 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    body{
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+    }
+    /* Navbar */
+    .navbar-navigation{
+        padding-left: 15px;
+    }
+    .navbar-line {
+        padding-left: 40px;
+        padding-top: 50px;
+    }
+    .navbar-search{
+        padding-top: 20px;
+    }
+
+    /* Section-1 */
+    #section-1{
+        height: auto;
+        background-position-x: 0px,170px,center;
+        background-position-y: 25px,930px,345px;
+    }
+    .section-1-h1{
+        font-size: 50px;
+    }
+    .section-1-h1-2 {
+        font-size: 50px;
+    }
+    .section-1-h1-2::before {
+        font-size: 20px;
+    }
+    .section-1-h1-2::after {
+        font-size: 20px;
+    }
+    .section-1-col-1-h1{
+        padding: 0%;
+        padding-top: 10px;
+    }
+    .section-1-col-1-para{
+        padding: 0%;
+    }
+    .section-1-col-2-h1{
+        padding: 0%;
+        padding-top: 465px;
+    }
+    .section-1-col-2-para{
+        padding: 0%;
+    }
+    #section-1-col-2-btn{
+        margin-left: 130px;
+    }
+    #section-1-col-1-btn{
+        margin-left: 130px;
+    }
+    #hr{
+        margin-top: 25px;
+    }
+    .section-1-end-para-1{
+        padding-left: 5px;
+        padding-top: 5px;
+        font-size: 5px;
+    }
+    .section-1-end-para-2 {
+        padding-left: 280px;
+        margin-top: -40px;
+        font-size: 5px;
+    }
+
+
+    /* Section-2 */
+    #section-2{
+        height: auto;
+        background-size: cover;
+    }
+    #section-2-row{
+        width: 100vw;
+    }
+    .section-2-col-1-img{
+        padding-top: 60px;
+        padding-left: 40px;
+    }
+    .section-2-col-2-para-2{
+        font-size: 27px;
+    }
+    .section-2-col-2-para-1 {
+        margin-bottom: 55px;
+    }
+    #section-2-col-2{
+        padding-left: 40px;
+    }
+    .section-2-col-3-img {
+        padding-top: 60px;
+        padding-left: 70px;
+        padding-bottom: 35px;
+    }
+
+
+    /* Section-3 */
+    .section-3-h1{
+        font-size: 60px;
+        padding-top: 25px;
+    }
+    .section-3-small-h1{
+        font-size: 15px;
+        padding-top: 50px;
+        padding-left: 55px;
+    }
+    .section-3-col-1-img{
+        height: 270px;
+        padding-left: 0px;
+    }
+    .section-3-col-1-para{
+        font-size: 25px;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .section-3-col-2-img{
+        padding-top: 30px;
+        height: 280px;
+    }
+    .section-3-col-2-para{
+        font-size: 25px;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .section-3-col-2-img-2{
+        padding-top: 30px;
+        height: 280px;
+    }
+    #section-3{
+        height: auto;
+    }
+    #section-3-btn{
+        margin-bottom: 20px;
+    }
+
+
+    /* Section-4 */
+    #section-4{
+        background-position-y: 80px,270px;
+        background-size: 40%;
+        height: auto;
+    }
+    .section-4-logo {
+        padding-left: 255px;
+        margin-top: -30px;
+        height: 80px;
+    }
+    .section-4-h1{
+        font-size: 42px;
+        line-height: 55px;
+        padding-top: 10px;
+    }
+    .section-4-hr{
+        margin-top: 15px;
+    }
+    .section-4-para{
+        font-size: 8px;
+        padding-top: 10px;
+        padding-bottom: 40px;
+        margin: 0px;
+    }
+
+
+    /* Section-5 */
+    #section-5-col-2{
+    background-size: contain;
+    }
+    .section-5-h1{
+        font-size: 55px;
+        padding-top: 50px;
+        padding-left: 30px;
+    }
+    .section-5-no{
+        font-size: 25px;
+        padding-left: 30px;
+    }
+    .section-5-h2{
+        font-size: 20px;
+        padding-left: 30px;
+    }
+    .section-5-para{
+        font-size: 10px;
+        padding-left: 30px;
+    }
+    #section-5-col-1{
+        height: auto;
+    }
+    #section-5-col-2{
+        height: 545px;
+    }
+
+
+    /* Section-6 */
+    #section-6-col-1{
+        padding: 0%;
+        height: 715px;
+    }
+    .section-6-col-1-img{
+        padding-left: 6px;
+        padding-top: 100px;
+    }
+    .section-6-col-1-sketch{
+        padding-left: 129px;
+    }
+    .section-6-col-2-h1{
+        font-size: 70px;
+        line-height: 100px;
+        padding-top: 100px;
+        margin: 0%;
+    }
+    #section-6-col-2{
+        padding-top: 70px;
+        height: 715px;
+    }
+    .section-6-col-2-no-left{
+        font-size: 30px;
+        padding-left: 23px;
+        padding-top: 0px;
+    }
+    .section-6-col-2-no-right{
+        font-size: 30px;
+        padding-top: 0px;
+    }
+    .section-6-col-2-h1-2{
+        font-size: 70px;
+        line-height: 50px;
+    }
+    .section-6-col-2-para{
+        font-size: 13px;
+    }
+    #section-6-col-2-btn{
+        margin-left: 115px;
+    }
+    .section-6-logo {
+        padding-top: 165px;
+        padding-left: 190px;
+    }
+
+
+    /* Section-7 */
+    #section-7{
+        height: auto;
+        background-position-y: 95px;
+    }
+    .section-7-h1{
+        font-size: 60px;
+        padding-left: 25px;
+        padding-top: 190px;
+    }
+    .section-7-simbol{
+        font-size: 60px;
+        padding-left: 25px; 
+    }
+    .section-7-para{
+        font-size: 10px;
+        padding-left: 50px;
+        margin-top: -69px;
+    }
+    .section-7-end-para{
+        padding-left: 55px;
+        font-size: 10px;
+    }
+    .section-7-main-arrow{
+        margin-left: 288px;
+        padding-bottom: 30px;
+    }
+
+
+    /* Section-8 */
+    .section-8-h1{
+        font-size: 60px;
+        line-height: 80px;
+    }
+    .section-8-h1-no{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .section-8-h1-main{
+        padding-left: 50px;
+    }
+    .section-8-para{
+        font-size: 11px;
+    }
+    #section-8-col-1{
+        background-position-y: 40px;
+        padding-top: 150px;
+        height: auto;
+    }
+    .section-8-col-2-first-h1{
+        padding-top: 55px;
+    }
+      #section-8-col-2-btn-1{
+        width: 200px;
+    }
+    #section-8-col-2-btn-2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #section-8-col-2-btn-3{
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    #section-8-col-2-btn-4{
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    #section-8-col-2-btn-5{
+        margin-top: 15px;
+        margin-left: 0px;
+        width: 200px;
+    }
+    #section-8-col-2-btn-6{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #section-8-col-2{
+        padding-left: 40px;
+        background-position-y: 740px;
+        height: 840px;
+    }
+
+
+    /* Footer */
+    #footer{
+        height: auto;
+    }
+    #footer-col{
+        padding-top: 30px;
+    }
+    #footer-row{
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .footer-h1{
+        margin: 0%;
+    }
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     /* Navbar */
+     .navbar-navigation{
+        padding-left: 15px;
+    }
+    .navbar-line {
+        padding-left: 40px;
+        padding-top: 60px;
+    }
+
+    /* Section-1 */
+    #section-1{
+        height: auto;
+    }
+    .section-1-h1{
+        font-size: 50px;
+    }
+    .section-1-h1-2 {
+        font-size: 50px;
+    }
+    .section-1-h1-2::before {
+        font-size: 20px;
+    }
+    .section-1-h1-2::after {
+        font-size: 20px;
+    }
+    .section-1-col-1-h1{
+        padding: 0%;
+        padding-top: 10px;
+    }
+    .section-1-col-1-para{
+        padding: 0%;
+    }
+    .section-1-col-2-h1{
+        padding: 0%;
+        padding-top: 20px;
+    }
+    .section-1-col-2-para{
+        padding: 0%;
+    }
+    #section-1-div-2-btn{
+        margin-left: 110px;
+    }
+    #hr{
+        margin-top: 25px;
+    }
+    .section-1-end-para-1{
+        padding-left: 5px;
+        padding-top: 5px;
+        font-size: 5px;
+    }
+    .section-1-end-para-2 {
+        padding-left: 280px;
+        margin-top: -40px;
+        font-size: 5px;
+    }
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* Navbar */
+    .navbar-navigation{
+        padding-left: 15px;
+    }
+    .navbar-line {
+        padding-left: 405px;
+        padding-top: 40px;
+    }
+
+    /* Section-1 */
+    #section-1{
+        height: auto;
+        background-position-x: 0px,1060px,center;
+        background-size: 30%;
+    }
+    .section-1-h1{
+        font-size: 50px;
+    }
+    .section-1-h1-2 {
+        font-size: 50px;
+    }
+    .section-1-h1-2::before {
+        font-size: 20px;
+    }
+    .section-1-h1-2::after {
+        font-size: 20px;
+    }
+    .section-1-col-1-h1{
+        padding: 0%;
+        padding-top: 25px;
+        margin-left: -105px;
+    }
+    .section-1-col-1-para{
+        padding: 0%;
+        font-size: 12px;
+        margin-left: -94px;
+
+    }
+    .section-1-col-2-h1{
+        padding: 0%;
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+    .section-1-col-2-para{
+        padding: 0%;
+        font-size: 12px;
+        padding-left: 100px;
+    }
+    #section-1-col-2-btn{
+        margin-left: 180px;
+    }
+    #section-1-col-1-btn {
+        margin-left: 80px;
+    }
+    #hr{
+        margin-top: 25px;
+    }
+    .section-1-end-para-1{
+        padding-left: 5px;
+        padding-top: 5px;
+        font-size: 5px;
+    }
+    .section-1-end-para-2 {
+        padding-left: 280px;
+        margin-top: -40px;
+        font-size: 5px;
+    }
+    #hr{
+        margin-top: 115px;
+    }
+
+
+    /* Section-2 */
+    #section-2{
+        height: 670px;
+    }
+    .section-2-col-2-para-2{
+        font-size: 30px;
+    }
+    .section-2-col-2-para-1{
+        margin-bottom: 80px;
+    }
+    .section-2-col-1-img{
+        height: 630px;
+    }
+    .section-2-col-3-img{
+        height: 310px;
+    }
+    #section-2-col-1{
+        padding: 0%;
+    }
+    #section-2-col-2{
+        padding: 0%;
+    }
+    #section-2-col-3{
+        padding: 0%;
+    }
+    #section-2-row{
+        width: 100vw;
+    }
+
+
+    /* Section-3 */
+    .section-3-small-h1{
+        padding-left: 188px;
+    }
+    .section-3-col-1-img{
+        height: 20%;
+    }
+    .section-3-col-1-para{
+        font-size: 25px;
+    }
+    .section-3-col-2-img{
+        height: 36%;
+    }
+    .section-3-col-2-img-2{
+        height: 24%;
+    }
+    .section-3-col-2-para{
+        font-size: 30px;
+    }
+    #section-3-btn{
+        margin-top: -225px;
+    }
+    #section-3{
+        height: auto;
+    }
+
+
+    /* Section-4 */
+    .section-4-logo{
+        padding-left: 570px;
+    }
+    .section-4-h1{
+        font-size: 90px;
+    }
+
+
+    /* Section-5 */
+    .section-5-h1{
+        font-size: 70px;
+    }
+    .section-5-no{
+        font-size: 20px;
+    }
+    .section-5-h2{
+        font-size: 20px;
+    }
+    .section-5-para{
+        font-size: 12px;
+    }
+    #section-5-col-1{
+        height: auto;
+    }
+    #section-5-col-2{
+        height: auto;
+    }
+
+
+    /* Section-6 */
+    .section-6-col-1-img {
+        width: inherit;
+        padding-left: 0px;
+        padding-top: 90px;
+    }
+    .section-6-col-1-sketch{
+        padding-left: 115px;
+    }
+    #section-6-col-1{
+        height: 580px;
+    }
+    .section-6-col-2-h1{
+        font-size: 60px;
+        line-height: 100px;
+        padding-top: 30px;
+        margin: 0%;
+    }
+    #section-6-col-2{
+        padding-top: 70px;
+        height: 580px;
+        background-position-y: 70px;
+    }
+    .section-6-col-2-no-left{
+        font-size: 30px;
+        padding-left: 75px;
+        padding-top: 0px;
+    }
+    .section-6-col-2-no-right{
+        font-size: 30px;
+        padding-top: 0px;
+    }
+    .section-6-col-2-h1-2{
+        font-size: 60px;
+        line-height: 50px;
+    }
+    .section-6-col-2-para{
+        font-size: 13px;
+    }
+    #section-6-col-2-btn{
+        margin-left: 170px;
+    }
+    .section-6-logo {
+        padding-top: 100px;
+        padding-left: 230px;
+    }
+
+
+    /* Section-7 */
+    #section-7{
+        height: auto;
+        background-position-y: 99px;
+    }
+    .section-7-h1{
+        font-size: 80px;
+        padding-left: 30px;
+    }
+    .section-7-simbol{
+        padding-left: 30px;
+        font-size: 80px;
+    }
+    .section-7-para{
+        font-size: 17px;
+        padding-left: 65px;
+        margin-top: -95px;
+    }
+    .section-7-end-para{
+        font-size: 15px;
+        padding-left: 65px;
+    }
+    .section-7-main-arrow{
+        margin-left: 605px;
+        padding-bottom: 30px;
+    }
+
+
+    /* Section-8 */
+    .section-8-h1{
+        font-size: 60px;
+        line-height: 80px;
+    }
+    .section-8-h1-main{
+        padding-left: 25px;
+    }
+    .section-8-h1-no{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    #section-8-col-1{
+        padding-top: 240px;
+    }
+    .section-8-para{
+        font-size: 10px;
+    }
+    .section-8-col-2-first-h1{
+        padding-top: 95px;
+        margin-top: 0%;
+    }
+    #section-8-col-2{
+        padding-left: 20px;
+        padding-right: 70px;
+        background-position-y: 777px;
+    }
+    #section-8-col-2-btn-1{
+        margin-left: 0px;
+        width: 200px;
+    }
+    #section-8-col-2-btn-2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #section-8-col-2-btn-3{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    #section-8-col-2-btn-4{
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+    #section-8-col-2-btn-5{
+        margin-top: 15px;
+        margin-left: 0px;
+        width: 200px;
+    }
+    #section-8-col-2-btn-6{
+        margin-left: 0px;
+        margin-top: 12px;
+    }
+
+
+    /* Footer */
+    #footer-row{
+        padding-left: 30px;
+    }
+    .footer-h1{
+        font-size: 20px;
+    }
+    .footer-para{
+        font-size: 12px;
+    }
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* Navbar */
+    .navbar-navigation{
+        padding-left: 15px;
+    }
+    .navbar-line {
+        padding-left: 670px;
+        padding-top: 40px;
+    }
+
+    /* Section-1 */
+    #section-1{
+        height: auto;
+        background-position-x: 0px,right,center;
+        background-position-y: 35px,236px,55px;
+        background-size: 25%;
+    }
+    .section-1-h1{
+        font-size: 50px;
+    }
+    .section-1-h1-2 {
+        font-size: 50px;
+    }
+    .section-1-h1-2::before {
+        font-size: 20px;
+    }
+    .section-1-h1-2::after {
+        font-size: 20px;
+    }
+    .section-1-col-1-h1{
+        padding: 0%;
+        padding-top: 25px;
+        margin-left: -105px;
+    }
+    .section-1-col-1-para{
+        padding: 0%;
+        font-size: 15px;
+        margin-left: -94px;
+
+    }
+    .section-1-col-2-h1{
+        padding: 0%;
+        padding-top: 20px;
+        padding-left: 100px;
+    }
+    .section-1-col-2-para{
+        padding: 0%;
+        font-size: 15px;
+        padding-left: 100px;
+    }
+    #section-1-div-2-btn{
+        margin-left: 230px;
+    }
+    #section-1-col-1-btn {
+        margin-left: 130px;
+    }
+    #hr{
+        margin-top: 25px;
+    }
+    .section-1-end-para-1{
+        padding-left: 12px;
+        padding-top: 5px;
+        font-size: 10px;
+    }
+    .section-1-end-para-2 {
+        padding-left: 310px;
+        margin-top: -8px;
+        font-size: 10px;
+    }
+
+
+    /* Section-2 */
+    .section-2-col-2-para-2{
+        font-size: 40px;
+    }
+    .section-2-col-1-img{
+        height: 90%;
+    }
+    .section-2-col-3-img{
+        height: 48%;
+    }
+    .section-2-col-2-para-1{
+        margin-bottom: 80px;
+    }
+    #section-2-row{
+        width: 100vw;
+    }
+
+    /* Section-3 */
+    #section-3{
+        height: 1490px;
+    }
+    .section-3-small-h1{
+        padding-left: 290px;
+    }
+    .section-3-col-1-img{
+        padding-left: 20px;
+        height: 30%;
+    }
+    .section-3-col-2-img{
+        height: 43%;
+    }
+    .section-3-col-2-img-2{
+        height: 31%;
+    }
+    .section-3-col-2-para{
+        text-align: center;
+    }
+    #section-3-btn{
+        margin-top: -25px;
+    }
+
+
+    /* Section-4 */
+    .section-4-logo{
+        padding-left: 790px;
+    }
+
+
+    /* Section-5 */
+    .section-5-h1{
+        font-size: 90px;
+    }
+    .section-5-no{
+        font-size: 20px;
+    }
+    .section-5-h2{
+        font-size: 20px;
+    }
+    .section-5-para{
+        font-size: 14px;
+    }
+    #section-5-col-1{
+        height: auto;
+    }
+    #section-5-col-2{
+        height: auto;
+    }
+
+
+    /* Section-6 */
+    .section-6-col-1-img {
+        padding-left: 5px;
+        padding-top: 100px;
+    }
+    .section-6-col-1-sketch{
+        padding-left: 160px;
+    }
+    #section-6-col-1{
+        height: 730px;
+    }
+    #section-6-col-2{
+        height: 730px;
+    }
+    .section-6-col-2-no-left{
+        padding-left: 80px;
+    }
+    .section-6-col-2-h1{
+        padding-top: 215px;
+    }
+    #section-6-col-2-btn{
+        margin-left: 230px;
+    }
+    .section-6-logo{
+        padding-top: 91px;
+        padding-left: 380px;
+    }
+
+
+
+    
+    /* Section-7 */
+    #section-7{
+        height: auto;
+        background-position-y: 99px;
+    }
+    .section-7-h1{
+        font-size: 100px;
+        padding-left: 30px;
+    }
+    .section-7-simbol{
+        padding-left: 30px;
+        font-size: 100px;
+    }
+    .section-7-para {
+        font-size: 22px;
+        padding-left: 75px;
+        margin-top: -115px;
+    }
+    .section-7-end-para{
+        font-size: 19px;
+        padding-left: 65px;
+    }
+    .section-7-main-arrow{
+        margin-left: 820px;
+        padding-bottom: 30px;
+    }
+
+
+    /* Section-8 */
+    .section-8-h1{
+        font-size: 80px;
+        line-height: 95px;
+    }
+    .section-8-h1-main{
+        padding-left: 60px;
+    }
+    .section-8-para{
+        font-size: 15px;
+    }
+    #section-8-col-2-btn-3{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    #section-8-col-2-btn-4{
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    #section-8-col-2-btn-5{
+        margin-top: 10px;
+        margin-left: 3px;
+    }
+    #section-8-col-2-btn-6{
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
